@@ -1,7 +1,7 @@
-Damien Pollet <damien.pollet@inria.fr>
-Vincent Aranega <vincent.aranega@inria.fr>
-Guillermo Polito <guillermo.polito@inria.fr>
-Stéphane Ducasse <stephane.ducasse@inria.fr>
+- Damien Pollet <damien.pollet@inria.fr>
+- Vincent Aranega <vincent.aranega@inria.fr>
+- Guillermo Polito <guillermo.polito@inria.fr>
+- Stéphane Ducasse <stephane.ducasse@inria.fr>
 
 
 W1 - Pharo decouverte S
