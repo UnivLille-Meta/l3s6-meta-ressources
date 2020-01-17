@@ -3,31 +3,63 @@
 - Guillermo Polito <guillermo.polito@inria.fr>
 - Stéphane Ducasse <stephane.ducasse@inria.fr>
 
+# Semainier
 
-W1 - Pharo decouverte S
-	Counter + DSL
-	
-W2 - Projet calculatrice 
+1. Pharo découverte, Counter + DSL
 
-W3 - Presentations Pharo 
-	Syntax
-	Model
-	Debugger
-	
-W4 - Double Dispatch
+2. Exercices, calculatrice
 
-W4 - Visitor Exp
+3. Discussion sur les sujets de présentations
 
-W5 - Visitor AST
+4. Double Dispatch, Visitor Exp
 
-W6 - Visitor AST
-	
-W7 - Examen
+5. Visitor AST
 
-W8 - ObjVlisp  S
+6. Visitor AST, Examen
 
-W9 - ObjVlisp  S
+7. ObjVlisp  S
 
-W10 - Interpreter S
+8. ObjVlisp  S
 
-W11 - Examen 
+9. Interpreter S
+
+10. Examen
+
+
+# Présentations
+
+### Rangée 1: self et super
+- Tristan Valet
+- Alexis Finard
+- Josué Happe
+- Matthias Séverin
+
+### Rangée 2: exceptions et blocs
+- Dame Mboup
+- Thierno Amadou Bah
+- Audrey Seunes
+- Ibrahima Balde
+- Mamadou Diallo
+
+### Rangée 3: Syntaxe
+- Esteban Collard
+- Dylan Choquet
+- Alexandre Levasseur
+- Florian …
+
+### Rangée 4: méthodes et classes, instances
+- Quan Nguyen
+- Philippe Lesueur
+- Adrien Meunier
+
+### Rangée 5: Debugger et IDE
+- Anthony Mendez
+- Anthony Lafolie
+- Ryad Tarafi
+- Nathan Houzet
+
+### Rangée 6: collections itérateurs
+- Samy Boumahdi
+- Thomas Lamvehee
+- Ahlam Khammar
+- Nadia Amirat
