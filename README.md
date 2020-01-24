@@ -51,6 +51,7 @@
 - Quan Nguyen
 - Philippe Lesueur
 - Adrien Meunier
+- Julien Vanryssel
 
 ### Rangée 5: Debugger et IDE
 - Anthony Mendez
