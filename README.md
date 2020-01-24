@@ -45,7 +45,7 @@
 - Esteban Collard
 - Dylan Choquet
 - Alexandre Levasseur
-- Florian …
+- Florian Covey
 
 ### Rangée 4: méthodes et classes, instances
 - Quan Nguyen
@@ -64,3 +64,4 @@
 - Thomas Lamvehee
 - Ahlam Khammar
 - Nadia Amirat
+- Mohamd Said Mahdi
