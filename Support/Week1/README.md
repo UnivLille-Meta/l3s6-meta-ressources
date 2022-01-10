@@ -6,7 +6,7 @@
 	* [Pharo syntaxe](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf)
 	* [Définition de classes et de méthodes](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S06-ClassAndMethodDefinition.pdf)
 * [W1-2](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/)
-	* [Messages pour les programmeurs Java](PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf) - [video](https://www.youtube.com/watch?v=Lt1h-beXzlw&list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn&index=20)
+	* [Messages pour les programmeurs Java](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf) - [video](https://www.youtube.com/watch?v=Lt1h-beXzlw&list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn&index=20)
 	* [Messages](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf) - [video](https://www.youtube.com/watch?v=nzAryWsrYJ8&list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn&index=18)
 	* [Précédences](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf) - [video](https://www.youtube.com/watch?v=YOTj0-AUAf0&list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn&index=21)
 	* [Séquences](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S04-Messages-Sequence.pdf) - [video](https://www.youtube.com/watch?v=EUlpzXLbaUI&list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn&index=22)
