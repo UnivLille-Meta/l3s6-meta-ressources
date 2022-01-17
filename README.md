@@ -4,9 +4,9 @@
 
 On vous évaluera avec 3 (trois) examens au cours des dates suivantes:
 
-31/1, 4/2  W4 - Examen - Double Dispatch et Visitor
-21/2, 25/2 W6 - Examen - AST et Visitor AST
-14/3, 18/3 W9 - Examen - Implementation Modèles objet: heritage, lookup, envoie message argument vs parametre, metaclass...
+- 31/1, 4/2  W4 - Examen - Double Dispatch et Visitor
+- 21/2, 25/2 W6 - Examen - AST et Visitor AST
+- 14/3, 18/3 W9 - Examen - Implementation Modèles objet: heritage, lookup, envoie message argument vs parametre, metaclass...
 
 
 
