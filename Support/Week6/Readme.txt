@@ -1,0 +1,1 @@
+http://books.pharo.org/booklet-ReflectiveCore/
