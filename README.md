@@ -18,7 +18,7 @@ On vous évaluera avec 3 (trois) examens
 
 #### Horaires 
 
-- mardi  15H45
+- mardi  14H45
 - Vendredi 13:00 but it can be 13:30
 
 ## Resources Générales
