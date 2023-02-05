@@ -5,21 +5,26 @@
 - 10/1, 13/1 W1 - Pharo découverte, présentation Pharo (syntaxe, modèle, debug), counter + iceberg, projet calculatrice ?		Iona
 - 17/1, 21/1 W2 - Double Dispatch Larisa
 - 24/1, 28/1 W3 - Double Dispatch Exercices Larisa
-- 31/1, 4/2 W4 -  Visitor Exp	Iona
-- 7/2, 11/2  W5 - Examen (multiple choice - 30' - DD + Visitor) Larisa
-- 14/2, 17/2 W6 - Intro AST + Visitor Larisa
+- 31/1, 4/2 W4 -  Visitor Exp	Larisa
+- 7/2, 11/2  W5 - Examen (multiple choice - 30' - DD) Larisa
+- 14/2, 17/2 W6 - Intro AST + Visitor Iona
 - 21/2, 24/2 holidays
 - 28/2, 3/3  W7 - Intro ObjVlisp (1h) + ObjVlisp Pratique
 - 7/3, 10/3  W8 - ObjVLisp Pratique + Showcase Interpreter (How we can use the pharo syntax to work on your objvlisp implementation)
 - 14/3, 19/3 W9 - Examen (3h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
 
 #### Évaluation.
-On vous évaluera avec 3 (trois) examens 
+On vous évaluera avec 2 (deux) examens 
+
+Le premier examen
+
+- sur papier
+- à propos de la syntaxe pharo (bloc loops inclus), double dispatch
 
 #### Horaires 
 
 - mardi  14H45
-- Vendredi 13:00 but it can be 13:30
+- Vendredi 13H30
 
 ## Resources Générales
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
