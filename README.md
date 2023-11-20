@@ -6,7 +6,7 @@
 - 17/1, 21/1 W2 - Double Dispatch Larisa
 - 24/1, 28/1 W3 - Double Dispatch Exercices Larisa
 - 31/1, 4/2 W4 -  Visitor Exp	Larisa
-- 7/2, 11/2  W5 - Examen (multiple choice - 30' - DD) Larisa
+- 7/2, 11/2  W5 - Finish visitor implementation + Examen - Larisa Wednesday / Stephane Friday
 - 14/2, 17/2 W6 - Intro AST + Visitor Iona
 - 21/2, 24/2 holidays
 - 28/2, 3/3  W7 - Intro ObjVlisp (1h) + ObjVlisp Pratique
