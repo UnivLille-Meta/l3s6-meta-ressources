@@ -2,16 +2,16 @@
 
 ## Agenda
 
-- 10/1, 13/1 W1 - Pharo découverte, présentation Pharo (syntaxe, modèle, debug), counter + iceberg, projet calculatrice ?		Iona
-- 17/1, 21/1 W2 - Double Dispatch Larisa
-- 24/1, 28/1 W3 - Double Dispatch Exercices Larisa
-- 31/1, 4/2 W4 -  Visitor Exp	Larisa
-- 7/2, 11/2  W5 - Finish visitor implementation + Examen - Larisa Wednesday / Stephane Friday
-- 14/2, 17/2 W6 - Intro AST + Visitor Iona
-- 21/2, 24/2 holidays
-- 28/2, 3/3  W7 - Intro ObjVlisp (1h) + ObjVlisp Pratique
-- 7/3, 10/3  W8 - ObjVLisp Pratique + Showcase Interpreter (How we can use the pharo syntax to work on your objvlisp implementation)
-- 14/3, 19/3 W9 - Examen (3h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
+- 16/1, 19/1 W1 - Pharo découverte, présentation Pharo (syntaxe, modèle, debug), counter + iceberg, projet calculatrice ?	Iona
+- 23/1, 26/1 W2 - Double Dispatch Larisa
+- 30/1, 2/2 W3 - Double Dispatch Exercices Larisa
+- 6/2, 9/2 W4 -  Visitor Exp	Larisa
+- 13/2, 16/2  W5 - Finish visitor implementation + Examen - Larisa
+- 20/2, 23/2 W6 - Intro AST + Visitor Iona
+- 27/2, 1/3 holidays
+- 5/3, 8/3  W7 - Intro ObjVlisp (1h) + ObjVlisp Pratique Guille/Stephane 
+- 12/3, 15/3  W8 - ObjVLisp Pratique + Showcase Interpreter (How we can use the pharo syntax to work on your objvlisp implementation) Guille/Stephane
+- 19/3, 22/3 W9 - Examen (3h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp) Guille/Stephane
 
 #### Évaluation.
 On vous évaluera avec 2 (deux) examens 
@@ -24,7 +24,7 @@ Le premier examen
 #### Horaires 
 
 - mardi  14H45
-- Vendredi 13H30
+- Vendredi 13H00
 
 ## Resources Générales
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
