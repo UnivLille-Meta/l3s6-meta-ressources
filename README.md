@@ -33,12 +33,3 @@ Le deuxième exam
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
 * [Online MOOC](https://www.fun-mooc.fr/courses/course-v1%3Ainria%2B41024%2Bsession01/about)
 * [Mooc without quizzes](http://mooc.pharo.org)
-
-## Resources par semaines
-* [Semaine 1](Support/Week1/README.md)
-* [Semaine 2](Support/Week2/README.md)
-* [Semaine 3](Support/Week3/)
-* [Semaine 4](Support/Week4/)
-* [Semaine 5](Support/Week5/)
-* [Semaine 6](Support/Week6/)
-
