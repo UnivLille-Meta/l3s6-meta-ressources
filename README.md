@@ -33,3 +33,4 @@ Le deuxième exam
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
 * [Online MOOC](https://www.fun-mooc.fr/courses/course-v1%3Ainria%2B41024%2Bsession01/about)
 * [Mooc without quizzes](http://mooc.pharo.org)
+* http://files.pharo.org/books-pdfs/learning-oop/2018-04-01-LearningOOP.pdf
