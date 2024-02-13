@@ -18,11 +18,16 @@ On vous évaluera avec 2 (deux) examens
 
 Le premier examen
 - sur papier
-- à propos de ObjVLisp (heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
+- à propos de
+    - ObjVLisp (heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
+    - syntaxe pharo (bloc loops inclus)
 
 Le deuxième exam
 - sur papier
-- à propos de la syntaxe pharo (bloc loops inclus), double dispatch
+- à propos de
+    - double dispatch
+    - visitor
+    - manipulation d'AST
 
 #### Horaires 
 
