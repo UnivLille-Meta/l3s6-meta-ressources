@@ -7,23 +7,18 @@
 - 30/1, 2/2 W3 - Double Dispatch Exercices (Larisa)
 - 6/2, 9/2 W4 - Intro ObjVlisp (1h) + ObjVlisp Pratique (Guille/Stephane)
 - 13/2, 16/2 W5 - ObjVLisp Pratique (Guille/Stephane)
-- 20/2, 23/2 W6 - Visitor Exp + Examen (2h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp) (Larisa)
+- 20/2, 23/2 W6 - Visitor Exp (Larisa)
 - 27/2, 1/3 holidays
-- 5/3, 8/3 W7 - Intro AST + Visitor (Iona) 
-- 12/3, 15/3 W8 - Finish visitor implementation (Larisa)
-- 19/3, 22/3 W9 - Finish Exercises + Examen (Guille/Stephane)
+- 5/3, 8/3 W7 -  Intro AST + Visitor (Iona) 
+- 12/3, 15/3 W8 - Finish all exercises, AST, visitor, etc (Larisa)
+- 19/3, 22/3 W9 - Examen 3h (1h Pharo -> syntaxe pharo (bloc loops inclus), double dispath, visitor, AST; 2h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp) (Guille/Stephane)
 
 #### Évaluation.
-On vous évaluera avec 2 (deux) examens 
+On vous évaluera avec 1 examen 
 
-Le premier examen
-- sur papier
 - à propos de
     - ObjVLisp (heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
     - syntaxe pharo (bloc loops inclus)
-
-Le deuxième exam
-- sur papier
 - à propos de
     - double dispatch
     - visitor
