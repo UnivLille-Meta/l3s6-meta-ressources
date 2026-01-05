@@ -39,9 +39,9 @@ Friday 13H15 - 16H15 (at the M5-A14)
 
 
 ### Instructors
-- Stéphane Ducasse
-- Larisa Safina (mailto: larisa.safina at inria.fr)
 
+- Larisa Safina (mailto: larisa.safina at inria.fr)
+- Sebastian Jordan Montano and Stéphane Ducasse (mailto: stephane.ducasse at inria.fr)
 
 ### Main resources
 
