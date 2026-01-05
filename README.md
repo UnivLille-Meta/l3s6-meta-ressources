@@ -1,8 +1,14 @@
 # Option Meta
 
-## Agenda
+Yes you will have to learn Pharo :)
+Now you can have a look at the following talks to see what people are doing with Pharo
+- https://archive.esug.org/ESUG2025/day4/401-duca-what-devs-are-doing-with-pharo.pdf
+- https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf
 
-- 17/1 W1 - Introduction to Pharo and its environment. First project - Counter
+
+## Agenda (to be updated)
+
+- 13/1 W1 - Introduction to Pharo and its environment. First project - Counter
 - 24/1 W2 - Exercises + Introduction to Double Dispatch
 - 31/1 W3 - Double Dispatch Exercices
 - 7/2  W4 - Visitor pattern
@@ -32,7 +38,7 @@ Using any course materials or electronic devices during the exam is not allowed.
 Friday 13H15 - 16H15 (at the M5-A14)
 
 
-### Insctructors
+### Instructors
 - Stéphane Ducasse
 - Larisa Safina (mailto: larisa.safina at inria.fr)
 
