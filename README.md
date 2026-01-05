@@ -8,25 +8,28 @@ Now you can have a look at the following talks to see what people are doing with
 
 ## Agenda 
 
-Pay attention there are two lectures: one in L3 info and one in L3 Miage
+The course starts the week of January 13, 2026.
 
-- Miage lecture will happen the Tuesday afternon from 15:00 to 17:45
-- Info lecture will happen the Friday 13:15 to 16:15
-Starting week of 13 of Jan 2026.
+**Pay attention** there are two lectures: one in L3 info and one in L3 Miage
+
+Miage lectures take place on Tuesdays from 15:00 to 17:45 
+
+Info lectures take place on Fridays from 13:15 to 16:15 (at the M5-A14)
+
   
 - W1 - Introduction to Pharo and its environment. First project - Counter
 - W2 - Exercises + Introduction to Double Dispatch
 - W3 - Double Dispatch Exercices
 - W4 - Visitor pattern
 - W5 - Introduction to AST + Visitor
-- 23 - 27 of February Holiday 
-- 28/2 W6 - Interpreters
-- 7/3  W7 - Interpreters + Exercises
-- 14/3 W8 - Preparation for the exam - finish all exercises, ask your questions.
-- 21/3 W9 - Exam 
+- **23-27 of February Holidays** 
+- W6 - Interpreters
+- W7 - Interpreters + Exercises
+- W8 - Preparation for the exam - finish all exercises, ask your questions.
+- W9 - Exam 
 
 
-#### Evaluation
+## Evaluation
 
 At the end of the course, there will be a 3-hour exam covering everything we’ve learned, including all topics discussed:
  - Pharo syntax (blocs, loops, messages etc)
@@ -38,18 +41,12 @@ The exam will include both multiple-choice questions and open-ended questions. Y
 
 Using any course materials or electronic devices during the exam is not allowed.
 
+## Instructors
 
-#### Schedule
+- Info: Larisa Safina (mailto: larisa.safina at inria.fr)
+- Miage: Sebastian Jordan Montano and Stéphane Ducasse (mailto: stephane.ducasse at inria.fr)
 
-Friday 13H15 - 16H15 (at the M5-A14)
-
-
-### Instructors
-
-- Larisa Safina (mailto: larisa.safina at inria.fr)
-- Sebastian Jordan Montano and Stéphane Ducasse (mailto: stephane.ducasse at inria.fr)
-
-### Main resources
+## Main resources
 
 * You are always welcome to ask for help on the discord server of Pharo: https://discord.gg/QewZMZa 
 
