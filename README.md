@@ -6,14 +6,20 @@ Now you can have a look at the following talks to see what people are doing with
 - https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf
 
 
-## Agenda (to be updated)
+## Agenda 
 
-- 13/1 W1 - Introduction to Pharo and its environment. First project - Counter
-- 24/1 W2 - Exercises + Introduction to Double Dispatch
-- 31/1 W3 - Double Dispatch Exercices
-- 7/2  W4 - Visitor pattern
-- 14/2 W5 - Introduction to AST + Visitor
+Pay attention there are two lectures: one in L3 info and one in L3 Miage
 
+- Miage lecture will happen the Tuesday afternon from 15:00 to 17:45
+- Info lecture will happen the Friday 13:15 to 16:15
+Starting week of 13 of Jan 2026.
+  
+- W1 - Introduction to Pharo and its environment. First project - Counter
+- W2 - Exercises + Introduction to Double Dispatch
+- W3 - Double Dispatch Exercices
+- W4 - Visitor pattern
+- W5 - Introduction to AST + Visitor
+- 23 - 27 of February Holiday 
 - 28/2 W6 - Interpreters
 - 7/3  W7 - Interpreters + Exercises
 - 14/3 W8 - Preparation for the exam - finish all exercises, ask your questions.
