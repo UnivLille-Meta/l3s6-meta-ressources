@@ -48,8 +48,9 @@ Using any course materials or electronic devices during the exam is not allowed.
 
 ## Main resources
 
-* You are always welcome to ask for help on the discord server of Pharo: https://discord.gg/QewZMZa 
+* **[If your image is frozen and you have lost your code](Support/code%20perdu.pdf)**
 
+* You are always welcome to ask for help on the discord server of Pharo: https://discord.gg/QewZMZa 
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
 * [Online MOOC](https://www.fun-mooc.fr/courses/course-v1%3Ainria%2B41024%2Bsession01/about)
 * [Mooc without quizzes](http://mooc.pharo.org)
